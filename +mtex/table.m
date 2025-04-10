@@ -1,5 +1,5 @@
-% produces mtex.snippet with simple latex table text, using the
-% template file "table" (as default)
+% produces mtex.snippet with simple latex table text from table input M,
+% using the template file "table" (as default)
 % 
 % Wim van Ekeren, 2022
 function T = table(M, varargin)

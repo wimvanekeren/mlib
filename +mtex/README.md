@@ -11,8 +11,8 @@
    functionality to compile latex code.
 
 # GENERAL GUIDELINE
-   1. for users: please learn by the examples in +examples and type "help
-      mtex.<function> for more information
+   1. for users: please learn by the **examples** in **+examples** and type "help
+      mtex.(function)" for more information
    2. for contributors: please also provide tests to your features in the
       +test folder and examples for your features in the +examples folder
 
